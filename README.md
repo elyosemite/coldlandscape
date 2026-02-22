@@ -4,6 +4,8 @@ A dark theme for Visual Studio Code inspired by cold, foggy landscapes — desig
 
 ---
 
+[img](/assets/image.png)
+
 ## Philosophy
 
 Cold Landscape was built around a single idea: your editor should feel like looking out at a frozen lake on a cloudy morning. Every color decision prioritizes comfort over decoration. The palette was extracted from photographs of cold landscapes — frozen lakes, overcast skies, conifer forests, blue-shadowed snow, and moss on stone.
