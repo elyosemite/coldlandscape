@@ -1,0 +1,22 @@
+{
+  "name": "cold-landscape",
+  "displayName": "Cold Landscape",
+  "description": "A dark theme inspired by cold, foggy landscapes — designed to reduce eye strain during long coding sessions.",
+  "version": "0.1.0",
+  "publisher": "El Yosemite",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cold Landscape",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cold-landscape-color-theme.json"
+      }
+    ]
+  }
+}
