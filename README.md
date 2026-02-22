@@ -4,7 +4,7 @@ A dark theme for Visual Studio Code inspired by cold, foggy landscapes — desig
 
 ---
 
-[img](/assets/image.png)
+![img](/assets/image.png)
 
 ## Philosophy
 
